@@ -37,7 +37,7 @@ Important variables:
 8. Feature importance  
 
 ## Model Performance
-- **Accuracy:** ~80–86%  
+- **Accuracy:** ~80–85%  
 - **F1-score:** depends on training  
 - **Top churn factors:**  
   - Contract type  
